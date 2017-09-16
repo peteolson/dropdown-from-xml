@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<location>
+
+    <items>
+		<id>1</id>
+        <item>trailer</item>
+	</items>
+	
+    <items>
+		<id>2</id>
+        <item>rear tool box</item>
+	</items>
+
+    <items>
+		<id>3</id>
+        <item>middle toolbox</item>
+	</items>
+	<items>
+		<id>4</id>
+        <item>front toolbox</item>
+	</items>
+	
+    <items>
+		<id>5</id>
+        <item>front top shelf</item>
+	</items>
+
+    <items>
+		<id>6</id>
+        <item>front middle shelf</item>
+	</items>		
+
+</location>
